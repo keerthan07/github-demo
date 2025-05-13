@@ -1,0 +1,5 @@
+2023-12-26 17:39:51,007 : INFO : test_edit_profile : Sharma
+2023-12-26 17:39:51,008 : INFO : PyTestFramework.test_logging : Information
+2023-12-26 17:39:51,008 : WARNING : PyTestFramework.test_logging : A simple warning
+2023-12-26 17:39:51,008 : ERROR : PyTestFramework.test_logging : An error occured while executing the step
+2023-12-26 17:39:51,008 : CRITICAL : PyTestFramework.test_logging : A critical issue
