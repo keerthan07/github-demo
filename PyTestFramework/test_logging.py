@@ -17,3 +17,5 @@ def test_logging_demo():
     logger.warning("A simple warning")
     logger.error("An error occured while executing the step")
     logger.critical("A critical issue")
+
+
